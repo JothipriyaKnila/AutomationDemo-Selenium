@@ -1,0 +1,31 @@
+13669 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+13669 [main] INFO MyFrameWork.Libertytax - URL Navigatied and Going to log into application
+13669 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+31655 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+31655 [main] INFO MyFrameWork.Libertytax - User successfully logged into application
+31655 [main] INFO MyFrameWork.Libertytax - User cab able to see the dashboard
+31655 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+36712 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+36712 [main] INFO MyFrameWork.Libertytax - There is no record against to this SSN
+36712 [main] INFO MyFrameWork.Libertytax - User has select the office
+56698 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+56707 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+79230 [main] INFO MyFrameWork.Libertytax - User has entered Taxpayer Information
+79230 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+79241 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+79241 [main] INFO MyFrameWork.Libertytax - User has entered Address Information
+95474 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+95478 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+95478 [main] INFO MyFrameWork.Libertytax - User has submitted their disclosure
+101479 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+101488 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+119186 [main] INFO MyFrameWork.Libertytax - Form is loaded successfully
+119186 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+119190 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+119190 [main] INFO MyFrameWork.Libertytax - User has entered FEIN and Employer Name
+119190 [main] INFO MyFrameWork.Libertytax - User has entered Employee Address
+119190 [main] INFO MyFrameWork.Libertytax - User has entered Wages details
+158191 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+158197 [main] INFO MyFrameWork.Libertytax - ********************************************************************************
+158877 [main] INFO MyFrameWork.Libertytax - Browser has been closed sucessfully after executing all the testcases
+158877 [main] INFO MyFrameWork.Libertytax - ********************************************************************************

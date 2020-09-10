@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [LibertyTaxSuite]">
+  <test name="LibertyTaxTest(failed)">
+    <classes>
+      <class name="MyFrameWork.Libertytax">
+        <methods>
+          <include name="fnNavigatetoURL"/>
+          <include name="fnLogin"/>
+          <include name="fnClose"/>
+        </methods>
+      </class> <!-- MyFrameWork.Libertytax -->
+    </classes>
+  </test> <!-- LibertyTaxTest(failed) -->
+</suite> <!-- Failed suite [LibertyTaxSuite] -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LibertyTaxSuite" duration-ms="69221" started-at="2020-08-26T05:40:29Z" finished-at="2020-08-26T05:41:38Z">
+    <groups>
+    </groups>
+    <test name="LibertyTaxTest" duration-ms="69221" started-at="2020-08-26T05:40:29Z" finished-at="2020-08-26T05:41:38Z">
+      <class name="MyFrameWork.Libertytax">
+        <test-method status="PASS" signature="fnNavigatetoURL()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnNavigatetoURL" is-config="true" duration-ms="14047" started-at="2020-08-26T11:10:29Z" finished-at="2020-08-26T11:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnNavigatetoURL -->
+        <test-method status="PASS" signature="fnLogin()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnLogin" duration-ms="17361" started-at="2020-08-26T11:10:43Z" finished-at="2020-08-26T11:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnLogin -->
+        <test-method status="PASS" signature="fnCreateLiveReturnForSSN()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnCreateLiveReturnForSSN" duration-ms="7789" started-at="2020-08-26T11:11:00Z" finished-at="2020-08-26T11:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnCreateLiveReturnForSSN -->
+        <test-method status="PASS" signature="fnCreateTaxPayerInformation()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnCreateTaxPayerInformation" duration-ms="858" started-at="2020-08-26T11:11:08Z" finished-at="2020-08-26T11:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnCreateTaxPayerInformation -->
+        <test-method status="PASS" signature="fnCreateTaxPayerAddress()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnCreateTaxPayerAddress" duration-ms="2975" started-at="2020-08-26T11:11:09Z" finished-at="2020-08-26T11:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnCreateTaxPayerAddress -->
+        <test-method status="PASS" signature="fnSubmitDisclosure()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnSubmitDisclosure" duration-ms="12857" started-at="2020-08-26T11:11:12Z" finished-at="2020-08-26T11:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnSubmitDisclosure -->
+        <test-method status="PASS" signature="fnSubmitIncomeOption()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnSubmitIncomeOption" duration-ms="8590" started-at="2020-08-26T11:11:25Z" finished-at="2020-08-26T11:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnSubmitIncomeOption -->
+        <test-method status="PASS" signature="fnFormSave()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnFormSave" duration-ms="3956" started-at="2020-08-26T11:11:33Z" finished-at="2020-08-26T11:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnFormSave -->
+        <test-method status="PASS" signature="fnClose()[pri:0, instance:MyFrameWork.Libertytax@5315b42e]" name="fnClose" is-config="true" duration-ms="707" started-at="2020-08-26T11:11:37Z" finished-at="2020-08-26T11:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnClose -->
+      </class> <!-- MyFrameWork.Libertytax -->
+    </test> <!-- LibertyTaxTest -->
+  </suite> <!-- LibertyTaxSuite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LibertyTaxSuite" thread-count="3" >
+<test name="LibertyTaxTest">
+<classes>
+ <class name="MyFrameWork.TestBase"/>  
+<class name="MyFrameWork.Libertytax"/>
+</classes>
+</test>
+</suite>
